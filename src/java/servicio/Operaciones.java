@@ -12,7 +12,7 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.core.Context;
 import javax.ws.rs.core.UriInfo;
 
-/**
+/** hala
  * REST Web Service
  *
  * @author uestudiantes
